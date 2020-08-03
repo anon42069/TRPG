@@ -1,0 +1,3 @@
+ON RACES:
+current races will be dwarf, elf, human, catfolk, 
+dragonkin, ratfolk, orc, woodfolk,
